@@ -1,1 +1,1 @@
-# Ploting_temperature
+# Plotting_temperature
